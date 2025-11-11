@@ -1,3 +1,5 @@
+import Image from 'next/image';
+
 export default function Testimonials() {
   return (
     <section className="py-24 md:py-32 px-4 md:px-6 lg:px-8 bg-gradient-to-br from-slate-50 via-blue-50/30 to-slate-50">
